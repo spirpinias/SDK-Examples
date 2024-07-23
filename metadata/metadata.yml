@@ -1,0 +1,6 @@
+metadata_version: 1
+name: SDK Example
+description: A demonstration for importing Data from S3. Mounting to Capsule. Parameterize
+  and Run.
+authors:
+- name: Stephen Pirpinias
